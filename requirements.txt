@@ -1,0 +1,9 @@
+pandas
+numpy
+statsmodels
+pmdarima
+openpyxl
+google-genai
+fastapi
+uvicorn
+python-multipart

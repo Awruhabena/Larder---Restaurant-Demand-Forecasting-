@@ -1,0 +1,3736 @@
+{
+  "headline": {
+    "plan_total_ghs": 572960.41,
+    "savings_ghs": 62262.63,
+    "accuracy_pct": 75.5,
+    "items_count": 71,
+    "plan_weeks": 4,
+    "currency": "GHS"
+  },
+  "weeks": [
+    "2023-01-02",
+    "2023-01-09",
+    "2023-01-16",
+    "2023-01-23"
+  ],
+  "buy_plan": [
+    {
+      "item": "Chicken Breast",
+      "week_of": "2023-01-02",
+      "forecast_units": 43,
+      "buy_units": 50,
+      "unit_cost": 174.24,
+      "buy_cost_ghs": 8712.0,
+      "change": "down",
+      "change_pct": -25.9
+    },
+    {
+      "item": "Salads",
+      "week_of": "2023-01-02",
+      "forecast_units": 30,
+      "buy_units": 35,
+      "unit_cost": 168.78,
+      "buy_cost_ghs": 5907.3,
+      "change": "down",
+      "change_pct": -21.1
+    },
+    {
+      "item": "Pork Chops",
+      "week_of": "2023-01-02",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 136.08,
+      "buy_cost_ghs": 5579.28,
+      "change": "steady",
+      "change_pct": 16.7
+    },
+    {
+      "item": "Burgers",
+      "week_of": "2023-01-02",
+      "forecast_units": 28,
+      "buy_units": 33,
+      "unit_cost": 157.6,
+      "buy_cost_ghs": 5200.8,
+      "change": "steady",
+      "change_pct": -9.7
+    },
+    {
+      "item": "Lamb Chops",
+      "week_of": "2023-01-02",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 161.92,
+      "buy_cost_ghs": 5181.44,
+      "change": "down",
+      "change_pct": -57.1
+    },
+    {
+      "item": "Turkey Dishes",
+      "week_of": "2023-01-02",
+      "forecast_units": 30,
+      "buy_units": 35,
+      "unit_cost": 146.61,
+      "buy_cost_ghs": 5131.35,
+      "change": "steady",
+      "change_pct": -18.9
+    },
+    {
+      "item": "Spaghetti",
+      "week_of": "2023-01-02",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 158.53,
+      "buy_cost_ghs": 4755.9,
+      "change": "steady",
+      "change_pct": -7.1
+    },
+    {
+      "item": "Vegetable Stir-Fry",
+      "week_of": "2023-01-02",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 146.16,
+      "buy_cost_ghs": 4677.12,
+      "change": "steady",
+      "change_pct": -10.0
+    },
+    {
+      "item": "Fried Fish",
+      "week_of": "2023-01-02",
+      "forecast_units": 30,
+      "buy_units": 35,
+      "unit_cost": 133.63,
+      "buy_cost_ghs": 4677.05,
+      "change": "steady",
+      "change_pct": -11.8
+    },
+    {
+      "item": "Steaks",
+      "week_of": "2023-01-02",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 144.32,
+      "buy_cost_ghs": 4618.24,
+      "change": "steady",
+      "change_pct": -12.9
+    },
+    {
+      "item": "Lasagna",
+      "week_of": "2023-01-02",
+      "forecast_units": 29,
+      "buy_units": 34,
+      "unit_cost": 123.82,
+      "buy_cost_ghs": 4209.88,
+      "change": "steady",
+      "change_pct": -3.3
+    },
+    {
+      "item": "Ravioli",
+      "week_of": "2023-01-02",
+      "forecast_units": 30,
+      "buy_units": 35,
+      "unit_cost": 113.4,
+      "buy_cost_ghs": 3969.0,
+      "change": "steady",
+      "change_pct": -3.2
+    },
+    {
+      "item": "Seafood Pasta",
+      "week_of": "2023-01-02",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 119.52,
+      "buy_cost_ghs": 3824.64,
+      "change": "steady",
+      "change_pct": -18.2
+    },
+    {
+      "item": "Tofu Dishes",
+      "week_of": "2023-01-02",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 115.2,
+      "buy_cost_ghs": 3456.0,
+      "change": "down",
+      "change_pct": -27.8
+    },
+    {
+      "item": "Sliced Fruits",
+      "week_of": "2023-01-02",
+      "forecast_units": 79,
+      "buy_units": 91,
+      "unit_cost": 35.69,
+      "buy_cost_ghs": 3247.79,
+      "change": "steady",
+      "change_pct": 9.7
+    },
+    {
+      "item": "Fettuccine",
+      "week_of": "2023-01-02",
+      "forecast_units": 21,
+      "buy_units": 25,
+      "unit_cost": 119.72,
+      "buy_cost_ghs": 2993.0,
+      "change": "down",
+      "change_pct": -34.4
+    },
+    {
+      "item": "Grilled Fish",
+      "week_of": "2023-01-02",
+      "forecast_units": 24,
+      "buy_units": 28,
+      "unit_cost": 105.78,
+      "buy_cost_ghs": 2961.84,
+      "change": "down",
+      "change_pct": -22.6
+    },
+    {
+      "item": "Fruit Salad",
+      "week_of": "2023-01-02",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 56.7,
+      "buy_cost_ghs": 2948.4,
+      "change": "down",
+      "change_pct": -29.7
+    },
+    {
+      "item": "Vegetarian Pasta",
+      "week_of": "2023-01-02",
+      "forecast_units": 23,
+      "buy_units": 27,
+      "unit_cost": 103.84,
+      "buy_cost_ghs": 2803.68,
+      "change": "down",
+      "change_pct": -28.1
+    },
+    {
+      "item": "Roasted Duck",
+      "week_of": "2023-01-02",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 87.2,
+      "buy_cost_ghs": 2616.0,
+      "change": "steady",
+      "change_pct": -16.1
+    },
+    {
+      "item": "Tiramisu",
+      "week_of": "2023-01-02",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 48.0,
+      "buy_cost_ghs": 2208.0,
+      "change": "down",
+      "change_pct": -24.5
+    },
+    {
+      "item": "Rice Pudding",
+      "week_of": "2023-01-02",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 45.0,
+      "buy_cost_ghs": 2160.0,
+      "change": "up",
+      "change_pct": 28.1
+    },
+    {
+      "item": "Cherry Pie",
+      "week_of": "2023-01-02",
+      "forecast_units": 44,
+      "buy_units": 51,
+      "unit_cost": 42.24,
+      "buy_cost_ghs": 2154.24,
+      "change": "steady",
+      "change_pct": 12.8
+    },
+    {
+      "item": "Key Lime Pie",
+      "week_of": "2023-01-02",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 48.45,
+      "buy_cost_ghs": 2131.8,
+      "change": "down",
+      "change_pct": -26.9
+    },
+    {
+      "item": "Basic Dessert",
+      "week_of": "2023-01-02",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 46.2,
+      "buy_cost_ghs": 2079.0,
+      "change": "steady",
+      "change_pct": 18.2
+    },
+    {
+      "item": "Custard",
+      "week_of": "2023-01-02",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 49.3,
+      "buy_cost_ghs": 2070.6,
+      "change": "steady",
+      "change_pct": 12.5
+    },
+    {
+      "item": "Apple Pie",
+      "week_of": "2023-01-02",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 49.02,
+      "buy_cost_ghs": 2058.84,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Sushi Rolls",
+      "week_of": "2023-01-02",
+      "forecast_units": 14,
+      "buy_units": 17,
+      "unit_cost": 115.2,
+      "buy_cost_ghs": 1958.4,
+      "change": "steady",
+      "change_pct": 16.7
+    },
+    {
+      "item": "Various Flavors with Toppings",
+      "week_of": "2023-01-02",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 43.35,
+      "buy_cost_ghs": 1950.75,
+      "change": "up",
+      "change_pct": 21.9
+    },
+    {
+      "item": "Cheesecake",
+      "week_of": "2023-01-02",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 41.65,
+      "buy_cost_ghs": 1874.25,
+      "change": "steady",
+      "change_pct": -15.2
+    },
+    {
+      "item": "Basic Side Dish",
+      "week_of": "2023-01-02",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 40.5,
+      "buy_cost_ghs": 1782.0,
+      "change": "down",
+      "change_pct": -20.8
+    },
+    {
+      "item": "Chocolate Cake",
+      "week_of": "2023-01-02",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 39.6,
+      "buy_cost_ghs": 1782.0,
+      "change": "steady",
+      "change_pct": -15.2
+    },
+    {
+      "item": "Dinner Rolls",
+      "week_of": "2023-01-02",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 40.48,
+      "buy_cost_ghs": 1781.12,
+      "change": "down",
+      "change_pct": -34.5
+    },
+    {
+      "item": "Naan Bread",
+      "week_of": "2023-01-02",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 37.4,
+      "buy_cost_ghs": 1720.4,
+      "change": "steady",
+      "change_pct": 11.1
+    },
+    {
+      "item": "Grilled Vegetables",
+      "week_of": "2023-01-02",
+      "forecast_units": 37,
+      "buy_units": 43,
+      "unit_cost": 39.69,
+      "buy_cost_ghs": 1706.67,
+      "change": "down",
+      "change_pct": -38.3
+    },
+    {
+      "item": "Roasted Potatoes",
+      "week_of": "2023-01-02",
+      "forecast_units": 46,
+      "buy_units": 53,
+      "unit_cost": 32.04,
+      "buy_cost_ghs": 1698.12,
+      "change": "down",
+      "change_pct": -20.7
+    },
+    {
+      "item": "French Fries",
+      "week_of": "2023-01-02",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 36.9,
+      "buy_cost_ghs": 1512.9,
+      "change": "down",
+      "change_pct": -25.5
+    },
+    {
+      "item": "Carrot Cake",
+      "week_of": "2023-01-02",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 34.4,
+      "buy_cost_ghs": 1444.8,
+      "change": "down",
+      "change_pct": -26.5
+    },
+    {
+      "item": "Potato Wedges",
+      "week_of": "2023-01-02",
+      "forecast_units": 48,
+      "buy_units": 56,
+      "unit_cost": 25.42,
+      "buy_cost_ghs": 1423.52,
+      "change": "up",
+      "change_pct": 37.1
+    },
+    {
+      "item": "Steamed Vegetables",
+      "week_of": "2023-01-02",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 34.02,
+      "buy_cost_ghs": 1394.82,
+      "change": "up",
+      "change_pct": 45.8
+    },
+    {
+      "item": "Chocolate Pudding",
+      "week_of": "2023-01-02",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 30.78,
+      "buy_cost_ghs": 1385.1,
+      "change": "steady",
+      "change_pct": -11.4
+    },
+    {
+      "item": "Mixed Vegetable Medley",
+      "week_of": "2023-01-02",
+      "forecast_units": 46,
+      "buy_units": 53,
+      "unit_cost": 25.5,
+      "buy_cost_ghs": 1351.5,
+      "change": "steady",
+      "change_pct": -16.4
+    },
+    {
+      "item": "Garlic Bread",
+      "week_of": "2023-01-02",
+      "forecast_units": 42,
+      "buy_units": 49,
+      "unit_cost": 23.8,
+      "buy_cost_ghs": 1166.2,
+      "change": "steady",
+      "change_pct": -16.0
+    },
+    {
+      "item": "Fruit Platter",
+      "week_of": "2023-01-02",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 26.35,
+      "buy_cost_ghs": 1159.4,
+      "change": "steady",
+      "change_pct": -13.6
+    },
+    {
+      "item": "Plain Rice",
+      "week_of": "2023-01-02",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 27.2,
+      "buy_cost_ghs": 1142.4,
+      "change": "up",
+      "change_pct": 44.0
+    },
+    {
+      "item": "Pilaf",
+      "week_of": "2023-01-02",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 24.08,
+      "buy_cost_ghs": 987.28,
+      "change": "steady",
+      "change_pct": -16.7
+    },
+    {
+      "item": "Samosas",
+      "week_of": "2023-01-02",
+      "forecast_units": 44,
+      "buy_units": 51,
+      "unit_cost": 18.0,
+      "buy_cost_ghs": 918.0,
+      "change": "steady",
+      "change_pct": -15.4
+    },
+    {
+      "item": "Mashed Potatoes",
+      "week_of": "2023-01-02",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 21.32,
+      "buy_cost_ghs": 895.44,
+      "change": "steady",
+      "change_pct": -7.7
+    },
+    {
+      "item": "Chicken Soup",
+      "week_of": "2023-01-02",
+      "forecast_units": 54,
+      "buy_units": 63,
+      "unit_cost": 13.05,
+      "buy_cost_ghs": 822.15,
+      "change": "steady",
+      "change_pct": -16.9
+    },
+    {
+      "item": "Spring Rolls",
+      "week_of": "2023-01-02",
+      "forecast_units": 47,
+      "buy_units": 55,
+      "unit_cost": 13.28,
+      "buy_cost_ghs": 730.4,
+      "change": "down",
+      "change_pct": -32.9
+    },
+    {
+      "item": "Garden Salad",
+      "week_of": "2023-01-02",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 13.94,
+      "buy_cost_ghs": 724.88,
+      "change": "down",
+      "change_pct": -34.8
+    },
+    {
+      "item": "Caesar Salad",
+      "week_of": "2023-01-02",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 13.76,
+      "buy_cost_ghs": 715.52,
+      "change": "down",
+      "change_pct": -36.6
+    },
+    {
+      "item": "Seafood Skewers",
+      "week_of": "2023-01-02",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 13.92,
+      "buy_cost_ghs": 668.16,
+      "change": "steady",
+      "change_pct": 10.8
+    },
+    {
+      "item": "Basic Beverage",
+      "week_of": "2023-01-02",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 15.84,
+      "buy_cost_ghs": 665.28,
+      "change": "down",
+      "change_pct": -23.4
+    },
+    {
+      "item": "Calamari Rings",
+      "week_of": "2023-01-02",
+      "forecast_units": 58,
+      "buy_units": 67,
+      "unit_cost": 9.84,
+      "buy_cost_ghs": 659.28,
+      "change": "up",
+      "change_pct": 34.9
+    },
+    {
+      "item": "Juice",
+      "week_of": "2023-01-02",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 13.92,
+      "buy_cost_ghs": 640.32,
+      "change": "down",
+      "change_pct": -27.3
+    },
+    {
+      "item": "Bruschetta",
+      "week_of": "2023-01-02",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 12.15,
+      "buy_cost_ghs": 631.8,
+      "change": "steady",
+      "change_pct": -2.2
+    },
+    {
+      "item": "Fried Rice",
+      "week_of": "2023-01-02",
+      "forecast_units": 31,
+      "buy_units": 36,
+      "unit_cost": 17.0,
+      "buy_cost_ghs": 612.0,
+      "change": "down",
+      "change_pct": -26.2
+    },
+    {
+      "item": "Shrimp Cocktail",
+      "week_of": "2023-01-02",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 12.15,
+      "buy_cost_ghs": 583.2,
+      "change": "steady",
+      "change_pct": -18.0
+    },
+    {
+      "item": "Whiskey",
+      "week_of": "2023-01-02",
+      "forecast_units": 32,
+      "buy_units": 37,
+      "unit_cost": 14.62,
+      "buy_cost_ghs": 540.94,
+      "change": "down",
+      "change_pct": -23.8
+    },
+    {
+      "item": "Liqueurs",
+      "week_of": "2023-01-02",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 8.6,
+      "buy_cost_ghs": 387.0,
+      "change": "up",
+      "change_pct": 44.4
+    },
+    {
+      "item": "Cocktails",
+      "week_of": "2023-01-02",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 8.8,
+      "buy_cost_ghs": 352.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Wine",
+      "week_of": "2023-01-02",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 8.0,
+      "buy_cost_ghs": 328.0,
+      "change": "down",
+      "change_pct": -32.7
+    },
+    {
+      "item": "Iced Tea",
+      "week_of": "2023-01-02",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 7.38,
+      "buy_cost_ghs": 302.58,
+      "change": "steady",
+      "change_pct": -5.4
+    },
+    {
+      "item": "Soda",
+      "week_of": "2023-01-02",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 6.8,
+      "buy_cost_ghs": 299.2,
+      "change": "steady",
+      "change_pct": 5.6
+    },
+    {
+      "item": "Water",
+      "week_of": "2023-01-02",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 7.12,
+      "buy_cost_ghs": 284.8,
+      "change": "down",
+      "change_pct": -40.4
+    },
+    {
+      "item": "Lemonade",
+      "week_of": "2023-01-02",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 6.56,
+      "buy_cost_ghs": 275.52,
+      "change": "steady",
+      "change_pct": -7.7
+    },
+    {
+      "item": "Beer",
+      "week_of": "2023-01-02",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 6.88,
+      "buy_cost_ghs": 275.2,
+      "change": "down",
+      "change_pct": -51.4
+    },
+    {
+      "item": "Coffee",
+      "week_of": "2023-01-02",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 5.4,
+      "buy_cost_ghs": 216.0,
+      "change": "steady",
+      "change_pct": -8.1
+    },
+    {
+      "item": "Vodka",
+      "week_of": "2023-01-02",
+      "forecast_units": 33,
+      "buy_units": 38,
+      "unit_cost": 4.45,
+      "buy_cost_ghs": 169.1,
+      "change": "up",
+      "change_pct": 65.0
+    },
+    {
+      "item": "Basic Appetizer",
+      "week_of": "2023-01-02",
+      "forecast_units": 31,
+      "buy_units": 36,
+      "unit_cost": 0.0,
+      "buy_cost_ghs": 0.0,
+      "change": "up",
+      "change_pct": 93.8
+    },
+    {
+      "item": "Chicken Breast",
+      "week_of": "2023-01-09",
+      "forecast_units": 43,
+      "buy_units": 50,
+      "unit_cost": 174.24,
+      "buy_cost_ghs": 8712.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Burgers",
+      "week_of": "2023-01-09",
+      "forecast_units": 31,
+      "buy_units": 36,
+      "unit_cost": 157.6,
+      "buy_cost_ghs": 5673.6,
+      "change": "steady",
+      "change_pct": 10.7
+    },
+    {
+      "item": "Salads",
+      "week_of": "2023-01-09",
+      "forecast_units": 28,
+      "buy_units": 33,
+      "unit_cost": 168.78,
+      "buy_cost_ghs": 5569.74,
+      "change": "steady",
+      "change_pct": -6.7
+    },
+    {
+      "item": "Pork Chops",
+      "week_of": "2023-01-09",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 136.08,
+      "buy_cost_ghs": 5443.2,
+      "change": "steady",
+      "change_pct": -2.9
+    },
+    {
+      "item": "Turkey Dishes",
+      "week_of": "2023-01-09",
+      "forecast_units": 32,
+      "buy_units": 37,
+      "unit_cost": 146.61,
+      "buy_cost_ghs": 5424.57,
+      "change": "steady",
+      "change_pct": 6.7
+    },
+    {
+      "item": "Lamb Chops",
+      "week_of": "2023-01-09",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 161.92,
+      "buy_cost_ghs": 5181.44,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Spaghetti",
+      "week_of": "2023-01-09",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 158.53,
+      "buy_cost_ghs": 4755.9,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Vegetable Stir-Fry",
+      "week_of": "2023-01-09",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 146.16,
+      "buy_cost_ghs": 4677.12,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fried Fish",
+      "week_of": "2023-01-09",
+      "forecast_units": 30,
+      "buy_units": 35,
+      "unit_cost": 133.63,
+      "buy_cost_ghs": 4677.05,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Steaks",
+      "week_of": "2023-01-09",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 144.32,
+      "buy_cost_ghs": 4618.24,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Lasagna",
+      "week_of": "2023-01-09",
+      "forecast_units": 29,
+      "buy_units": 34,
+      "unit_cost": 123.82,
+      "buy_cost_ghs": 4209.88,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Ravioli",
+      "week_of": "2023-01-09",
+      "forecast_units": 30,
+      "buy_units": 35,
+      "unit_cost": 113.4,
+      "buy_cost_ghs": 3969.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Sushi Rolls",
+      "week_of": "2023-01-09",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 115.2,
+      "buy_cost_ghs": 3686.4,
+      "change": "up",
+      "change_pct": 92.9
+    },
+    {
+      "item": "Seafood Pasta",
+      "week_of": "2023-01-09",
+      "forecast_units": 25,
+      "buy_units": 29,
+      "unit_cost": 119.52,
+      "buy_cost_ghs": 3466.08,
+      "change": "steady",
+      "change_pct": -7.4
+    },
+    {
+      "item": "Tofu Dishes",
+      "week_of": "2023-01-09",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 115.2,
+      "buy_cost_ghs": 3456.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Grilled Fish",
+      "week_of": "2023-01-09",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 105.78,
+      "buy_cost_ghs": 3384.96,
+      "change": "steady",
+      "change_pct": 12.5
+    },
+    {
+      "item": "Fettuccine",
+      "week_of": "2023-01-09",
+      "forecast_units": 22,
+      "buy_units": 26,
+      "unit_cost": 119.72,
+      "buy_cost_ghs": 3112.72,
+      "change": "steady",
+      "change_pct": 4.8
+    },
+    {
+      "item": "Vegetarian Pasta",
+      "week_of": "2023-01-09",
+      "forecast_units": 25,
+      "buy_units": 29,
+      "unit_cost": 103.84,
+      "buy_cost_ghs": 3011.36,
+      "change": "steady",
+      "change_pct": 8.7
+    },
+    {
+      "item": "Fruit Salad",
+      "week_of": "2023-01-09",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 56.7,
+      "buy_cost_ghs": 2721.6,
+      "change": "steady",
+      "change_pct": -8.9
+    },
+    {
+      "item": "Roasted Duck",
+      "week_of": "2023-01-09",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 87.2,
+      "buy_cost_ghs": 2616.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Sliced Fruits",
+      "week_of": "2023-01-09",
+      "forecast_units": 56,
+      "buy_units": 65,
+      "unit_cost": 35.69,
+      "buy_cost_ghs": 2319.85,
+      "change": "down",
+      "change_pct": -29.1
+    },
+    {
+      "item": "Basic Dessert",
+      "week_of": "2023-01-09",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 46.2,
+      "buy_cost_ghs": 2217.6,
+      "change": "steady",
+      "change_pct": 5.1
+    },
+    {
+      "item": "Tiramisu",
+      "week_of": "2023-01-09",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 48.0,
+      "buy_cost_ghs": 2208.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Rice Pudding",
+      "week_of": "2023-01-09",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 45.0,
+      "buy_cost_ghs": 2160.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Key Lime Pie",
+      "week_of": "2023-01-09",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 48.45,
+      "buy_cost_ghs": 2131.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Custard",
+      "week_of": "2023-01-09",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 49.3,
+      "buy_cost_ghs": 2070.6,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Apple Pie",
+      "week_of": "2023-01-09",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 49.02,
+      "buy_cost_ghs": 2058.84,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Various Flavors with Toppings",
+      "week_of": "2023-01-09",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 43.35,
+      "buy_cost_ghs": 1950.75,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Cherry Pie",
+      "week_of": "2023-01-09",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 42.24,
+      "buy_cost_ghs": 1943.04,
+      "change": "steady",
+      "change_pct": -9.1
+    },
+    {
+      "item": "Cheesecake",
+      "week_of": "2023-01-09",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 41.65,
+      "buy_cost_ghs": 1874.25,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Basic Side Dish",
+      "week_of": "2023-01-09",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 40.5,
+      "buy_cost_ghs": 1782.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Chocolate Cake",
+      "week_of": "2023-01-09",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 39.6,
+      "buy_cost_ghs": 1782.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Dinner Rolls",
+      "week_of": "2023-01-09",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 40.48,
+      "buy_cost_ghs": 1781.12,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Naan Bread",
+      "week_of": "2023-01-09",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 37.4,
+      "buy_cost_ghs": 1720.4,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Grilled Vegetables",
+      "week_of": "2023-01-09",
+      "forecast_units": 37,
+      "buy_units": 43,
+      "unit_cost": 39.69,
+      "buy_cost_ghs": 1706.67,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Roasted Potatoes",
+      "week_of": "2023-01-09",
+      "forecast_units": 42,
+      "buy_units": 49,
+      "unit_cost": 32.04,
+      "buy_cost_ghs": 1569.96,
+      "change": "steady",
+      "change_pct": -8.7
+    },
+    {
+      "item": "Steamed Vegetables",
+      "week_of": "2023-01-09",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 34.02,
+      "buy_cost_ghs": 1530.9,
+      "change": "steady",
+      "change_pct": 11.4
+    },
+    {
+      "item": "Mixed Vegetable Medley",
+      "week_of": "2023-01-09",
+      "forecast_units": 52,
+      "buy_units": 60,
+      "unit_cost": 25.5,
+      "buy_cost_ghs": 1530.0,
+      "change": "steady",
+      "change_pct": 13.0
+    },
+    {
+      "item": "French Fries",
+      "week_of": "2023-01-09",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 36.9,
+      "buy_cost_ghs": 1512.9,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Carrot Cake",
+      "week_of": "2023-01-09",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 34.4,
+      "buy_cost_ghs": 1444.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Chocolate Pudding",
+      "week_of": "2023-01-09",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 30.78,
+      "buy_cost_ghs": 1385.1,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fruit Platter",
+      "week_of": "2023-01-09",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 26.35,
+      "buy_cost_ghs": 1159.4,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Plain Rice",
+      "week_of": "2023-01-09",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 27.2,
+      "buy_cost_ghs": 1142.4,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Potato Wedges",
+      "week_of": "2023-01-09",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 25.42,
+      "buy_cost_ghs": 1118.48,
+      "change": "down",
+      "change_pct": -20.8
+    },
+    {
+      "item": "Garlic Bread",
+      "week_of": "2023-01-09",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 23.8,
+      "buy_cost_ghs": 1071.0,
+      "change": "steady",
+      "change_pct": -7.1
+    },
+    {
+      "item": "Pilaf",
+      "week_of": "2023-01-09",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 24.08,
+      "buy_cost_ghs": 987.28,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Samosas",
+      "week_of": "2023-01-09",
+      "forecast_units": 46,
+      "buy_units": 53,
+      "unit_cost": 18.0,
+      "buy_cost_ghs": 954.0,
+      "change": "steady",
+      "change_pct": 4.5
+    },
+    {
+      "item": "Mashed Potatoes",
+      "week_of": "2023-01-09",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 21.32,
+      "buy_cost_ghs": 895.44,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Calamari Rings",
+      "week_of": "2023-01-09",
+      "forecast_units": 75,
+      "buy_units": 87,
+      "unit_cost": 9.84,
+      "buy_cost_ghs": 856.08,
+      "change": "up",
+      "change_pct": 29.3
+    },
+    {
+      "item": "Spring Rolls",
+      "week_of": "2023-01-09",
+      "forecast_units": 52,
+      "buy_units": 60,
+      "unit_cost": 13.28,
+      "buy_cost_ghs": 796.8,
+      "change": "steady",
+      "change_pct": 10.6
+    },
+    {
+      "item": "Chicken Soup",
+      "week_of": "2023-01-09",
+      "forecast_units": 52,
+      "buy_units": 60,
+      "unit_cost": 13.05,
+      "buy_cost_ghs": 783.0,
+      "change": "steady",
+      "change_pct": -3.7
+    },
+    {
+      "item": "Garden Salad",
+      "week_of": "2023-01-09",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 13.94,
+      "buy_cost_ghs": 724.88,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Caesar Salad",
+      "week_of": "2023-01-09",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 13.76,
+      "buy_cost_ghs": 715.52,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Juice",
+      "week_of": "2023-01-09",
+      "forecast_units": 43,
+      "buy_units": 50,
+      "unit_cost": 13.92,
+      "buy_cost_ghs": 696.0,
+      "change": "steady",
+      "change_pct": 7.5
+    },
+    {
+      "item": "Seafood Skewers",
+      "week_of": "2023-01-09",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 13.92,
+      "buy_cost_ghs": 668.16,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Basic Beverage",
+      "week_of": "2023-01-09",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 15.84,
+      "buy_cost_ghs": 665.28,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Bruschetta",
+      "week_of": "2023-01-09",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 12.15,
+      "buy_cost_ghs": 631.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fried Rice",
+      "week_of": "2023-01-09",
+      "forecast_units": 31,
+      "buy_units": 36,
+      "unit_cost": 17.0,
+      "buy_cost_ghs": 612.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Shrimp Cocktail",
+      "week_of": "2023-01-09",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 12.15,
+      "buy_cost_ghs": 583.2,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Whiskey",
+      "week_of": "2023-01-09",
+      "forecast_units": 32,
+      "buy_units": 37,
+      "unit_cost": 14.62,
+      "buy_cost_ghs": 540.94,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Cocktails",
+      "week_of": "2023-01-09",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 8.8,
+      "buy_cost_ghs": 352.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Wine",
+      "week_of": "2023-01-09",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 8.0,
+      "buy_cost_ghs": 328.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Liqueurs",
+      "week_of": "2023-01-09",
+      "forecast_units": 33,
+      "buy_units": 38,
+      "unit_cost": 8.6,
+      "buy_cost_ghs": 326.8,
+      "change": "steady",
+      "change_pct": -15.4
+    },
+    {
+      "item": "Iced Tea",
+      "week_of": "2023-01-09",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 7.38,
+      "buy_cost_ghs": 302.58,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Soda",
+      "week_of": "2023-01-09",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 6.8,
+      "buy_cost_ghs": 299.2,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Water",
+      "week_of": "2023-01-09",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 7.12,
+      "buy_cost_ghs": 284.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Beer",
+      "week_of": "2023-01-09",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 6.88,
+      "buy_cost_ghs": 275.2,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Lemonade",
+      "week_of": "2023-01-09",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 6.56,
+      "buy_cost_ghs": 268.96,
+      "change": "steady",
+      "change_pct": -2.8
+    },
+    {
+      "item": "Coffee",
+      "week_of": "2023-01-09",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 5.4,
+      "buy_cost_ghs": 216.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Vodka",
+      "week_of": "2023-01-09",
+      "forecast_units": 33,
+      "buy_units": 38,
+      "unit_cost": 4.45,
+      "buy_cost_ghs": 169.1,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Basic Appetizer",
+      "week_of": "2023-01-09",
+      "forecast_units": 31,
+      "buy_units": 36,
+      "unit_cost": 0.0,
+      "buy_cost_ghs": 0.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Chicken Breast",
+      "week_of": "2023-01-16",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 174.24,
+      "buy_cost_ghs": 7840.8,
+      "change": "steady",
+      "change_pct": -9.3
+    },
+    {
+      "item": "Turkey Dishes",
+      "week_of": "2023-01-16",
+      "forecast_units": 33,
+      "buy_units": 38,
+      "unit_cost": 146.61,
+      "buy_cost_ghs": 5571.18,
+      "change": "steady",
+      "change_pct": 3.1
+    },
+    {
+      "item": "Salads",
+      "week_of": "2023-01-16",
+      "forecast_units": 28,
+      "buy_units": 33,
+      "unit_cost": 168.78,
+      "buy_cost_ghs": 5569.74,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Burgers",
+      "week_of": "2023-01-16",
+      "forecast_units": 28,
+      "buy_units": 33,
+      "unit_cost": 157.6,
+      "buy_cost_ghs": 5200.8,
+      "change": "steady",
+      "change_pct": -9.7
+    },
+    {
+      "item": "Lamb Chops",
+      "week_of": "2023-01-16",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 161.92,
+      "buy_cost_ghs": 5181.44,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Pork Chops",
+      "week_of": "2023-01-16",
+      "forecast_units": 33,
+      "buy_units": 38,
+      "unit_cost": 136.08,
+      "buy_cost_ghs": 5171.04,
+      "change": "steady",
+      "change_pct": -2.9
+    },
+    {
+      "item": "Spaghetti",
+      "week_of": "2023-01-16",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 158.53,
+      "buy_cost_ghs": 4755.9,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Vegetable Stir-Fry",
+      "week_of": "2023-01-16",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 146.16,
+      "buy_cost_ghs": 4677.12,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fried Fish",
+      "week_of": "2023-01-16",
+      "forecast_units": 30,
+      "buy_units": 35,
+      "unit_cost": 133.63,
+      "buy_cost_ghs": 4677.05,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Steaks",
+      "week_of": "2023-01-16",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 144.32,
+      "buy_cost_ghs": 4618.24,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Lasagna",
+      "week_of": "2023-01-16",
+      "forecast_units": 29,
+      "buy_units": 34,
+      "unit_cost": 123.82,
+      "buy_cost_ghs": 4209.88,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Ravioli",
+      "week_of": "2023-01-16",
+      "forecast_units": 30,
+      "buy_units": 35,
+      "unit_cost": 113.4,
+      "buy_cost_ghs": 3969.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Sushi Rolls",
+      "week_of": "2023-01-16",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 115.2,
+      "buy_cost_ghs": 3686.4,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fettuccine",
+      "week_of": "2023-01-16",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 119.72,
+      "buy_cost_ghs": 3591.6,
+      "change": "steady",
+      "change_pct": 18.2
+    },
+    {
+      "item": "Seafood Pasta",
+      "week_of": "2023-01-16",
+      "forecast_units": 25,
+      "buy_units": 29,
+      "unit_cost": 119.52,
+      "buy_cost_ghs": 3466.08,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Tofu Dishes",
+      "week_of": "2023-01-16",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 115.2,
+      "buy_cost_ghs": 3456.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Grilled Fish",
+      "week_of": "2023-01-16",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 105.78,
+      "buy_cost_ghs": 3384.96,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Vegetarian Pasta",
+      "week_of": "2023-01-16",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 103.84,
+      "buy_cost_ghs": 3322.88,
+      "change": "steady",
+      "change_pct": 8.0
+    },
+    {
+      "item": "Roasted Duck",
+      "week_of": "2023-01-16",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 87.2,
+      "buy_cost_ghs": 2616.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fruit Salad",
+      "week_of": "2023-01-16",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 56.7,
+      "buy_cost_ghs": 2608.2,
+      "change": "steady",
+      "change_pct": -2.4
+    },
+    {
+      "item": "Basic Dessert",
+      "week_of": "2023-01-16",
+      "forecast_units": 42,
+      "buy_units": 49,
+      "unit_cost": 46.2,
+      "buy_cost_ghs": 2263.8,
+      "change": "steady",
+      "change_pct": 2.4
+    },
+    {
+      "item": "Tiramisu",
+      "week_of": "2023-01-16",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 48.0,
+      "buy_cost_ghs": 2208.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Rice Pudding",
+      "week_of": "2023-01-16",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 45.0,
+      "buy_cost_ghs": 2160.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Key Lime Pie",
+      "week_of": "2023-01-16",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 48.45,
+      "buy_cost_ghs": 2131.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Custard",
+      "week_of": "2023-01-16",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 49.3,
+      "buy_cost_ghs": 2070.6,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Cherry Pie",
+      "week_of": "2023-01-16",
+      "forecast_units": 42,
+      "buy_units": 49,
+      "unit_cost": 42.24,
+      "buy_cost_ghs": 2069.76,
+      "change": "steady",
+      "change_pct": 5.0
+    },
+    {
+      "item": "Apple Pie",
+      "week_of": "2023-01-16",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 49.02,
+      "buy_cost_ghs": 2058.84,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Various Flavors with Toppings",
+      "week_of": "2023-01-16",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 43.35,
+      "buy_cost_ghs": 1950.75,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Cheesecake",
+      "week_of": "2023-01-16",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 41.65,
+      "buy_cost_ghs": 1915.9,
+      "change": "steady",
+      "change_pct": 2.6
+    },
+    {
+      "item": "Sliced Fruits",
+      "week_of": "2023-01-16",
+      "forecast_units": 43,
+      "buy_units": 50,
+      "unit_cost": 35.69,
+      "buy_cost_ghs": 1784.5,
+      "change": "down",
+      "change_pct": -23.2
+    },
+    {
+      "item": "Basic Side Dish",
+      "week_of": "2023-01-16",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 40.5,
+      "buy_cost_ghs": 1782.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Chocolate Cake",
+      "week_of": "2023-01-16",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 39.6,
+      "buy_cost_ghs": 1782.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Dinner Rolls",
+      "week_of": "2023-01-16",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 40.48,
+      "buy_cost_ghs": 1781.12,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Naan Bread",
+      "week_of": "2023-01-16",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 37.4,
+      "buy_cost_ghs": 1720.4,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Grilled Vegetables",
+      "week_of": "2023-01-16",
+      "forecast_units": 37,
+      "buy_units": 43,
+      "unit_cost": 39.69,
+      "buy_cost_ghs": 1706.67,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "French Fries",
+      "week_of": "2023-01-16",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 36.9,
+      "buy_cost_ghs": 1512.9,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Roasted Potatoes",
+      "week_of": "2023-01-16",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 32.04,
+      "buy_cost_ghs": 1473.84,
+      "change": "steady",
+      "change_pct": -4.8
+    },
+    {
+      "item": "Steamed Vegetables",
+      "week_of": "2023-01-16",
+      "forecast_units": 37,
+      "buy_units": 43,
+      "unit_cost": 34.02,
+      "buy_cost_ghs": 1462.86,
+      "change": "steady",
+      "change_pct": -5.1
+    },
+    {
+      "item": "Carrot Cake",
+      "week_of": "2023-01-16",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 34.4,
+      "buy_cost_ghs": 1444.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Chocolate Pudding",
+      "week_of": "2023-01-16",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 30.78,
+      "buy_cost_ghs": 1385.1,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Mixed Vegetable Medley",
+      "week_of": "2023-01-16",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 25.5,
+      "buy_cost_ghs": 1326.0,
+      "change": "steady",
+      "change_pct": -13.5
+    },
+    {
+      "item": "Potato Wedges",
+      "week_of": "2023-01-16",
+      "forecast_units": 42,
+      "buy_units": 49,
+      "unit_cost": 25.42,
+      "buy_cost_ghs": 1245.58,
+      "change": "steady",
+      "change_pct": 10.5
+    },
+    {
+      "item": "Fruit Platter",
+      "week_of": "2023-01-16",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 26.35,
+      "buy_cost_ghs": 1159.4,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Plain Rice",
+      "week_of": "2023-01-16",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 27.2,
+      "buy_cost_ghs": 1142.4,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Garlic Bread",
+      "week_of": "2023-01-16",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 23.8,
+      "buy_cost_ghs": 1047.2,
+      "change": "steady",
+      "change_pct": -2.6
+    },
+    {
+      "item": "Pilaf",
+      "week_of": "2023-01-16",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 24.08,
+      "buy_cost_ghs": 987.28,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Samosas",
+      "week_of": "2023-01-16",
+      "forecast_units": 44,
+      "buy_units": 51,
+      "unit_cost": 18.0,
+      "buy_cost_ghs": 918.0,
+      "change": "steady",
+      "change_pct": -4.3
+    },
+    {
+      "item": "Mashed Potatoes",
+      "week_of": "2023-01-16",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 21.32,
+      "buy_cost_ghs": 895.44,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Juice",
+      "week_of": "2023-01-16",
+      "forecast_units": 48,
+      "buy_units": 56,
+      "unit_cost": 13.92,
+      "buy_cost_ghs": 779.52,
+      "change": "steady",
+      "change_pct": 11.6
+    },
+    {
+      "item": "Chicken Soup",
+      "week_of": "2023-01-16",
+      "forecast_units": 49,
+      "buy_units": 57,
+      "unit_cost": 13.05,
+      "buy_cost_ghs": 743.85,
+      "change": "steady",
+      "change_pct": -5.8
+    },
+    {
+      "item": "Spring Rolls",
+      "week_of": "2023-01-16",
+      "forecast_units": 48,
+      "buy_units": 56,
+      "unit_cost": 13.28,
+      "buy_cost_ghs": 743.68,
+      "change": "steady",
+      "change_pct": -7.7
+    },
+    {
+      "item": "Garden Salad",
+      "week_of": "2023-01-16",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 13.94,
+      "buy_cost_ghs": 724.88,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Caesar Salad",
+      "week_of": "2023-01-16",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 13.76,
+      "buy_cost_ghs": 715.52,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Seafood Skewers",
+      "week_of": "2023-01-16",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 13.92,
+      "buy_cost_ghs": 668.16,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Basic Beverage",
+      "week_of": "2023-01-16",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 15.84,
+      "buy_cost_ghs": 665.28,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Bruschetta",
+      "week_of": "2023-01-16",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 12.15,
+      "buy_cost_ghs": 631.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fried Rice",
+      "week_of": "2023-01-16",
+      "forecast_units": 31,
+      "buy_units": 36,
+      "unit_cost": 17.0,
+      "buy_cost_ghs": 612.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Calamari Rings",
+      "week_of": "2023-01-16",
+      "forecast_units": 52,
+      "buy_units": 60,
+      "unit_cost": 9.84,
+      "buy_cost_ghs": 590.4,
+      "change": "down",
+      "change_pct": -30.7
+    },
+    {
+      "item": "Shrimp Cocktail",
+      "week_of": "2023-01-16",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 12.15,
+      "buy_cost_ghs": 583.2,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Whiskey",
+      "week_of": "2023-01-16",
+      "forecast_units": 32,
+      "buy_units": 37,
+      "unit_cost": 14.62,
+      "buy_cost_ghs": 540.94,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Cocktails",
+      "week_of": "2023-01-16",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 8.8,
+      "buy_cost_ghs": 352.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Wine",
+      "week_of": "2023-01-16",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 8.0,
+      "buy_cost_ghs": 328.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Liqueurs",
+      "week_of": "2023-01-16",
+      "forecast_units": 33,
+      "buy_units": 38,
+      "unit_cost": 8.6,
+      "buy_cost_ghs": 326.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Iced Tea",
+      "week_of": "2023-01-16",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 7.38,
+      "buy_cost_ghs": 302.58,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Soda",
+      "week_of": "2023-01-16",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 6.8,
+      "buy_cost_ghs": 299.2,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Water",
+      "week_of": "2023-01-16",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 7.12,
+      "buy_cost_ghs": 284.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Beer",
+      "week_of": "2023-01-16",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 6.88,
+      "buy_cost_ghs": 275.2,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Lemonade",
+      "week_of": "2023-01-16",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 6.56,
+      "buy_cost_ghs": 268.96,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Coffee",
+      "week_of": "2023-01-16",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 5.4,
+      "buy_cost_ghs": 216.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Vodka",
+      "week_of": "2023-01-16",
+      "forecast_units": 33,
+      "buy_units": 38,
+      "unit_cost": 4.45,
+      "buy_cost_ghs": 169.1,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Basic Appetizer",
+      "week_of": "2023-01-16",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 0.0,
+      "buy_cost_ghs": 0.0,
+      "change": "steady",
+      "change_pct": -12.9
+    },
+    {
+      "item": "Chicken Breast",
+      "week_of": "2023-01-23",
+      "forecast_units": 46,
+      "buy_units": 53,
+      "unit_cost": 174.24,
+      "buy_cost_ghs": 9234.72,
+      "change": "steady",
+      "change_pct": 17.9
+    },
+    {
+      "item": "Turkey Dishes",
+      "week_of": "2023-01-23",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 146.61,
+      "buy_cost_ghs": 5864.4,
+      "change": "steady",
+      "change_pct": 3.0
+    },
+    {
+      "item": "Salads",
+      "week_of": "2023-01-23",
+      "forecast_units": 28,
+      "buy_units": 33,
+      "unit_cost": 168.78,
+      "buy_cost_ghs": 5569.74,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Lamb Chops",
+      "week_of": "2023-01-23",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 161.92,
+      "buy_cost_ghs": 5181.44,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Pork Chops",
+      "week_of": "2023-01-23",
+      "forecast_units": 33,
+      "buy_units": 38,
+      "unit_cost": 136.08,
+      "buy_cost_ghs": 5171.04,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Burgers",
+      "week_of": "2023-01-23",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 157.6,
+      "buy_cost_ghs": 5043.2,
+      "change": "steady",
+      "change_pct": -3.6
+    },
+    {
+      "item": "Spaghetti",
+      "week_of": "2023-01-23",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 158.53,
+      "buy_cost_ghs": 4755.9,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Vegetable Stir-Fry",
+      "week_of": "2023-01-23",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 146.16,
+      "buy_cost_ghs": 4677.12,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fried Fish",
+      "week_of": "2023-01-23",
+      "forecast_units": 30,
+      "buy_units": 35,
+      "unit_cost": 133.63,
+      "buy_cost_ghs": 4677.05,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Steaks",
+      "week_of": "2023-01-23",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 144.32,
+      "buy_cost_ghs": 4618.24,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Lasagna",
+      "week_of": "2023-01-23",
+      "forecast_units": 29,
+      "buy_units": 34,
+      "unit_cost": 123.82,
+      "buy_cost_ghs": 4209.88,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Ravioli",
+      "week_of": "2023-01-23",
+      "forecast_units": 30,
+      "buy_units": 35,
+      "unit_cost": 113.4,
+      "buy_cost_ghs": 3969.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Sushi Rolls",
+      "week_of": "2023-01-23",
+      "forecast_units": 27,
+      "buy_units": 32,
+      "unit_cost": 115.2,
+      "buy_cost_ghs": 3686.4,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fettuccine",
+      "week_of": "2023-01-23",
+      "forecast_units": 25,
+      "buy_units": 29,
+      "unit_cost": 119.72,
+      "buy_cost_ghs": 3471.88,
+      "change": "steady",
+      "change_pct": -3.8
+    },
+    {
+      "item": "Seafood Pasta",
+      "week_of": "2023-01-23",
+      "forecast_units": 25,
+      "buy_units": 29,
+      "unit_cost": 119.52,
+      "buy_cost_ghs": 3466.08,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Tofu Dishes",
+      "week_of": "2023-01-23",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 115.2,
+      "buy_cost_ghs": 3456.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Grilled Fish",
+      "week_of": "2023-01-23",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 105.78,
+      "buy_cost_ghs": 3173.4,
+      "change": "steady",
+      "change_pct": -3.7
+    },
+    {
+      "item": "Vegetarian Pasta",
+      "week_of": "2023-01-23",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 103.84,
+      "buy_cost_ghs": 3115.2,
+      "change": "steady",
+      "change_pct": -3.7
+    },
+    {
+      "item": "Roasted Duck",
+      "week_of": "2023-01-23",
+      "forecast_units": 26,
+      "buy_units": 30,
+      "unit_cost": 87.2,
+      "buy_cost_ghs": 2616.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fruit Salad",
+      "week_of": "2023-01-23",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 56.7,
+      "buy_cost_ghs": 2608.2,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Basic Dessert",
+      "week_of": "2023-01-23",
+      "forecast_units": 42,
+      "buy_units": 49,
+      "unit_cost": 46.2,
+      "buy_cost_ghs": 2263.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Sliced Fruits",
+      "week_of": "2023-01-23",
+      "forecast_units": 54,
+      "buy_units": 63,
+      "unit_cost": 35.69,
+      "buy_cost_ghs": 2248.47,
+      "change": "up",
+      "change_pct": 25.6
+    },
+    {
+      "item": "Tiramisu",
+      "week_of": "2023-01-23",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 48.0,
+      "buy_cost_ghs": 2208.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Rice Pudding",
+      "week_of": "2023-01-23",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 45.0,
+      "buy_cost_ghs": 2160.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Key Lime Pie",
+      "week_of": "2023-01-23",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 48.45,
+      "buy_cost_ghs": 2131.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Custard",
+      "week_of": "2023-01-23",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 49.3,
+      "buy_cost_ghs": 2070.6,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Apple Pie",
+      "week_of": "2023-01-23",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 49.02,
+      "buy_cost_ghs": 2058.84,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Cherry Pie",
+      "week_of": "2023-01-23",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 42.24,
+      "buy_cost_ghs": 2027.52,
+      "change": "steady",
+      "change_pct": -2.4
+    },
+    {
+      "item": "Various Flavors with Toppings",
+      "week_of": "2023-01-23",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 43.35,
+      "buy_cost_ghs": 1950.75,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Cheesecake",
+      "week_of": "2023-01-23",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 41.65,
+      "buy_cost_ghs": 1915.9,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Basic Side Dish",
+      "week_of": "2023-01-23",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 40.5,
+      "buy_cost_ghs": 1782.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Chocolate Cake",
+      "week_of": "2023-01-23",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 39.6,
+      "buy_cost_ghs": 1782.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Dinner Rolls",
+      "week_of": "2023-01-23",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 40.48,
+      "buy_cost_ghs": 1781.12,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Naan Bread",
+      "week_of": "2023-01-23",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 37.4,
+      "buy_cost_ghs": 1720.4,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Grilled Vegetables",
+      "week_of": "2023-01-23",
+      "forecast_units": 37,
+      "buy_units": 43,
+      "unit_cost": 39.69,
+      "buy_cost_ghs": 1706.67,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "French Fries",
+      "week_of": "2023-01-23",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 36.9,
+      "buy_cost_ghs": 1512.9,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Mixed Vegetable Medley",
+      "week_of": "2023-01-23",
+      "forecast_units": 51,
+      "buy_units": 59,
+      "unit_cost": 25.5,
+      "buy_cost_ghs": 1504.5,
+      "change": "steady",
+      "change_pct": 13.3
+    },
+    {
+      "item": "Carrot Cake",
+      "week_of": "2023-01-23",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 34.4,
+      "buy_cost_ghs": 1444.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Roasted Potatoes",
+      "week_of": "2023-01-23",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 32.04,
+      "buy_cost_ghs": 1441.8,
+      "change": "steady",
+      "change_pct": -2.5
+    },
+    {
+      "item": "Steamed Vegetables",
+      "week_of": "2023-01-23",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 34.02,
+      "buy_cost_ghs": 1428.84,
+      "change": "steady",
+      "change_pct": -2.7
+    },
+    {
+      "item": "Chocolate Pudding",
+      "week_of": "2023-01-23",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 30.78,
+      "buy_cost_ghs": 1385.1,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fruit Platter",
+      "week_of": "2023-01-23",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 26.35,
+      "buy_cost_ghs": 1159.4,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Potato Wedges",
+      "week_of": "2023-01-23",
+      "forecast_units": 39,
+      "buy_units": 45,
+      "unit_cost": 25.42,
+      "buy_cost_ghs": 1143.9,
+      "change": "steady",
+      "change_pct": -7.1
+    },
+    {
+      "item": "Plain Rice",
+      "week_of": "2023-01-23",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 27.2,
+      "buy_cost_ghs": 1142.4,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Garlic Bread",
+      "week_of": "2023-01-23",
+      "forecast_units": 37,
+      "buy_units": 43,
+      "unit_cost": 23.8,
+      "buy_cost_ghs": 1023.4,
+      "change": "steady",
+      "change_pct": -2.6
+    },
+    {
+      "item": "Pilaf",
+      "week_of": "2023-01-23",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 24.08,
+      "buy_cost_ghs": 987.28,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Samosas",
+      "week_of": "2023-01-23",
+      "forecast_units": 44,
+      "buy_units": 51,
+      "unit_cost": 18.0,
+      "buy_cost_ghs": 918.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Mashed Potatoes",
+      "week_of": "2023-01-23",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 21.32,
+      "buy_cost_ghs": 895.44,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Spring Rolls",
+      "week_of": "2023-01-23",
+      "forecast_units": 48,
+      "buy_units": 56,
+      "unit_cost": 13.28,
+      "buy_cost_ghs": 743.68,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Juice",
+      "week_of": "2023-01-23",
+      "forecast_units": 46,
+      "buy_units": 53,
+      "unit_cost": 13.92,
+      "buy_cost_ghs": 737.76,
+      "change": "steady",
+      "change_pct": -4.2
+    },
+    {
+      "item": "Chicken Soup",
+      "week_of": "2023-01-23",
+      "forecast_units": 48,
+      "buy_units": 56,
+      "unit_cost": 13.05,
+      "buy_cost_ghs": 730.8,
+      "change": "steady",
+      "change_pct": -2.0
+    },
+    {
+      "item": "Garden Salad",
+      "week_of": "2023-01-23",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 13.94,
+      "buy_cost_ghs": 724.88,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Caesar Salad",
+      "week_of": "2023-01-23",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 13.76,
+      "buy_cost_ghs": 715.52,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Seafood Skewers",
+      "week_of": "2023-01-23",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 13.92,
+      "buy_cost_ghs": 668.16,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Basic Beverage",
+      "week_of": "2023-01-23",
+      "forecast_units": 36,
+      "buy_units": 42,
+      "unit_cost": 15.84,
+      "buy_cost_ghs": 665.28,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Calamari Rings",
+      "week_of": "2023-01-23",
+      "forecast_units": 58,
+      "buy_units": 67,
+      "unit_cost": 9.84,
+      "buy_cost_ghs": 659.28,
+      "change": "steady",
+      "change_pct": 11.5
+    },
+    {
+      "item": "Bruschetta",
+      "week_of": "2023-01-23",
+      "forecast_units": 45,
+      "buy_units": 52,
+      "unit_cost": 12.15,
+      "buy_cost_ghs": 631.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Fried Rice",
+      "week_of": "2023-01-23",
+      "forecast_units": 31,
+      "buy_units": 36,
+      "unit_cost": 17.0,
+      "buy_cost_ghs": 612.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Shrimp Cocktail",
+      "week_of": "2023-01-23",
+      "forecast_units": 41,
+      "buy_units": 48,
+      "unit_cost": 12.15,
+      "buy_cost_ghs": 583.2,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Whiskey",
+      "week_of": "2023-01-23",
+      "forecast_units": 32,
+      "buy_units": 37,
+      "unit_cost": 14.62,
+      "buy_cost_ghs": 540.94,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Cocktails",
+      "week_of": "2023-01-23",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 8.8,
+      "buy_cost_ghs": 352.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Wine",
+      "week_of": "2023-01-23",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 8.0,
+      "buy_cost_ghs": 328.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Liqueurs",
+      "week_of": "2023-01-23",
+      "forecast_units": 33,
+      "buy_units": 38,
+      "unit_cost": 8.6,
+      "buy_cost_ghs": 326.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Iced Tea",
+      "week_of": "2023-01-23",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 7.38,
+      "buy_cost_ghs": 302.58,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Soda",
+      "week_of": "2023-01-23",
+      "forecast_units": 38,
+      "buy_units": 44,
+      "unit_cost": 6.8,
+      "buy_cost_ghs": 299.2,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Water",
+      "week_of": "2023-01-23",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 7.12,
+      "buy_cost_ghs": 284.8,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Beer",
+      "week_of": "2023-01-23",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 6.88,
+      "buy_cost_ghs": 275.2,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Lemonade",
+      "week_of": "2023-01-23",
+      "forecast_units": 35,
+      "buy_units": 41,
+      "unit_cost": 6.56,
+      "buy_cost_ghs": 268.96,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Coffee",
+      "week_of": "2023-01-23",
+      "forecast_units": 34,
+      "buy_units": 40,
+      "unit_cost": 5.4,
+      "buy_cost_ghs": 216.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Vodka",
+      "week_of": "2023-01-23",
+      "forecast_units": 33,
+      "buy_units": 38,
+      "unit_cost": 4.45,
+      "buy_cost_ghs": 169.1,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Basic Appetizer",
+      "week_of": "2023-01-23",
+      "forecast_units": 28,
+      "buy_units": 33,
+      "unit_cost": 0.0,
+      "buy_cost_ghs": 0.0,
+      "change": "steady",
+      "change_pct": 3.7
+    }
+  ],
+  "summary": [
+    {
+      "item": "Chicken Breast",
+      "mape_pct": 31.0,
+      "accuracy_pct": 69.0,
+      "arima_order": "(5, 1, 0)",
+      "avg_weekly_forecast": 42.8,
+      "plan_total_units": 197,
+      "plan_total_ghs": 34325.28
+    },
+    {
+      "item": "Salads",
+      "mape_pct": 23.6,
+      "accuracy_pct": 76.4,
+      "arima_order": "(0, 0, 1)",
+      "avg_weekly_forecast": 28.5,
+      "plan_total_units": 132,
+      "plan_total_ghs": 22278.96
+    },
+    {
+      "item": "Turkey Dishes",
+      "mape_pct": 18.5,
+      "accuracy_pct": 81.5,
+      "arima_order": "(3, 1, 1)",
+      "avg_weekly_forecast": 32.2,
+      "plan_total_units": 149,
+      "plan_total_ghs": 21844.89
+    },
+    {
+      "item": "Pork Chops",
+      "mape_pct": 32.0,
+      "accuracy_pct": 68.0,
+      "arima_order": "(1, 0, 1)",
+      "avg_weekly_forecast": 33.8,
+      "plan_total_units": 156,
+      "plan_total_ghs": 21228.48
+    },
+    {
+      "item": "Burgers",
+      "mape_pct": 36.4,
+      "accuracy_pct": 63.6,
+      "arima_order": "(3, 0, 0)",
+      "avg_weekly_forecast": 28.5,
+      "plan_total_units": 132,
+      "plan_total_ghs": 20803.2
+    },
+    {
+      "item": "Lamb Chops",
+      "mape_pct": 24.7,
+      "accuracy_pct": 75.3,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 27.0,
+      "plan_total_units": 125,
+      "plan_total_ghs": 20240.0
+    },
+    {
+      "item": "Spaghetti",
+      "mape_pct": 33.4,
+      "accuracy_pct": 66.6,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 26.0,
+      "plan_total_units": 120,
+      "plan_total_ghs": 19023.6
+    },
+    {
+      "item": "Fried Fish",
+      "mape_pct": 21.4,
+      "accuracy_pct": 78.6,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 30.0,
+      "plan_total_units": 138,
+      "plan_total_ghs": 18440.94
+    },
+    {
+      "item": "Vegetable Stir-Fry",
+      "mape_pct": 22.6,
+      "accuracy_pct": 77.4,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 27.0,
+      "plan_total_units": 125,
+      "plan_total_ghs": 18270.0
+    },
+    {
+      "item": "Steaks",
+      "mape_pct": 15.2,
+      "accuracy_pct": 84.8,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 27.0,
+      "plan_total_units": 125,
+      "plan_total_ghs": 18040.0
+    },
+    {
+      "item": "Lasagna",
+      "mape_pct": 14.5,
+      "accuracy_pct": 85.5,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 29.0,
+      "plan_total_units": 134,
+      "plan_total_ghs": 16591.88
+    },
+    {
+      "item": "Ravioli",
+      "mape_pct": 31.9,
+      "accuracy_pct": 68.1,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 30.0,
+      "plan_total_units": 138,
+      "plan_total_ghs": 15649.2
+    },
+    {
+      "item": "Seafood Pasta",
+      "mape_pct": 26.4,
+      "accuracy_pct": 73.6,
+      "arima_order": "(0, 0, 1)",
+      "avg_weekly_forecast": 25.5,
+      "plan_total_units": 118,
+      "plan_total_ghs": 14103.36
+    },
+    {
+      "item": "Tofu Dishes",
+      "mape_pct": 27.4,
+      "accuracy_pct": 72.6,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 26.0,
+      "plan_total_units": 120,
+      "plan_total_ghs": 13824.0
+    },
+    {
+      "item": "Fettuccine",
+      "mape_pct": 22.2,
+      "accuracy_pct": 77.8,
+      "arima_order": "(2, 0, 0)",
+      "avg_weekly_forecast": 23.5,
+      "plan_total_units": 109,
+      "plan_total_ghs": 13049.48
+    },
+    {
+      "item": "Grilled Fish",
+      "mape_pct": 29.5,
+      "accuracy_pct": 70.5,
+      "arima_order": "(3, 0, 0)",
+      "avg_weekly_forecast": 26.0,
+      "plan_total_units": 120,
+      "plan_total_ghs": 12693.6
+    },
+    {
+      "item": "Sushi Rolls",
+      "mape_pct": 39.4,
+      "accuracy_pct": 60.6,
+      "arima_order": "(1, 0, 2)",
+      "avg_weekly_forecast": 23.8,
+      "plan_total_units": 110,
+      "plan_total_ghs": 12672.0
+    },
+    {
+      "item": "Vegetarian Pasta",
+      "mape_pct": 19.4,
+      "accuracy_pct": 80.6,
+      "arima_order": "(2, 0, 0)",
+      "avg_weekly_forecast": 25.2,
+      "plan_total_units": 117,
+      "plan_total_ghs": 12149.28
+    },
+    {
+      "item": "Fruit Salad",
+      "mape_pct": 21.9,
+      "accuracy_pct": 78.1,
+      "arima_order": "(1, 0, 0)",
+      "avg_weekly_forecast": 41.5,
+      "plan_total_units": 191,
+      "plan_total_ghs": 10829.7
+    },
+    {
+      "item": "Roasted Duck",
+      "mape_pct": 22.3,
+      "accuracy_pct": 77.7,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 26.0,
+      "plan_total_units": 120,
+      "plan_total_ghs": 10464.0
+    },
+    {
+      "item": "Sliced Fruits",
+      "mape_pct": 40.7,
+      "accuracy_pct": 59.3,
+      "arima_order": "(3, 0, 2)",
+      "avg_weekly_forecast": 58.0,
+      "plan_total_units": 267,
+      "plan_total_ghs": 9529.23
+    },
+    {
+      "item": "Tiramisu",
+      "mape_pct": 22.6,
+      "accuracy_pct": 77.4,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 40.0,
+      "plan_total_units": 184,
+      "plan_total_ghs": 8832.0
+    },
+    {
+      "item": "Basic Dessert",
+      "mape_pct": 27.8,
+      "accuracy_pct": 72.2,
+      "arima_order": "(1, 0, 0)",
+      "avg_weekly_forecast": 41.0,
+      "plan_total_units": 189,
+      "plan_total_ghs": 8731.8
+    },
+    {
+      "item": "Rice Pudding",
+      "mape_pct": 19.3,
+      "accuracy_pct": 80.7,
+      "arima_order": "(0, 1, 1)",
+      "avg_weekly_forecast": 41.0,
+      "plan_total_units": 189,
+      "plan_total_ghs": 8505.0
+    },
+    {
+      "item": "Key Lime Pie",
+      "mape_pct": 30.7,
+      "accuracy_pct": 69.3,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 38.0,
+      "plan_total_units": 175,
+      "plan_total_ghs": 8478.75
+    },
+    {
+      "item": "Custard",
+      "mape_pct": 20.9,
+      "accuracy_pct": 79.1,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 36.0,
+      "plan_total_units": 166,
+      "plan_total_ghs": 8183.8
+    },
+    {
+      "item": "Cherry Pie",
+      "mape_pct": 20.4,
+      "accuracy_pct": 79.6,
+      "arima_order": "(3, 0, 1)",
+      "avg_weekly_forecast": 41.8,
+      "plan_total_units": 193,
+      "plan_total_ghs": 8152.32
+    },
+    {
+      "item": "Apple Pie",
+      "mape_pct": 24.1,
+      "accuracy_pct": 75.9,
+      "arima_order": "(0, 0, 1)",
+      "avg_weekly_forecast": 36.0,
+      "plan_total_units": 166,
+      "plan_total_ghs": 8137.32
+    },
+    {
+      "item": "Various Flavors with Toppings",
+      "mape_pct": 39.8,
+      "accuracy_pct": 60.2,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 39.0,
+      "plan_total_units": 180,
+      "plan_total_ghs": 7803.0
+    },
+    {
+      "item": "Cheesecake",
+      "mape_pct": 18.1,
+      "accuracy_pct": 81.9,
+      "arima_order": "(2, 1, 1)",
+      "avg_weekly_forecast": 39.5,
+      "plan_total_units": 182,
+      "plan_total_ghs": 7580.3
+    },
+    {
+      "item": "Chocolate Cake",
+      "mape_pct": 28.5,
+      "accuracy_pct": 71.5,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 39.0,
+      "plan_total_units": 180,
+      "plan_total_ghs": 7128.0
+    },
+    {
+      "item": "Basic Side Dish",
+      "mape_pct": 29.9,
+      "accuracy_pct": 70.1,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 38.0,
+      "plan_total_units": 175,
+      "plan_total_ghs": 7087.5
+    },
+    {
+      "item": "Dinner Rolls",
+      "mape_pct": 19.2,
+      "accuracy_pct": 80.8,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 38.0,
+      "plan_total_units": 175,
+      "plan_total_ghs": 7084.0
+    },
+    {
+      "item": "Naan Bread",
+      "mape_pct": 28.2,
+      "accuracy_pct": 71.8,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 40.0,
+      "plan_total_units": 184,
+      "plan_total_ghs": 6881.6
+    },
+    {
+      "item": "Grilled Vegetables",
+      "mape_pct": 17.6,
+      "accuracy_pct": 82.4,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 37.0,
+      "plan_total_units": 171,
+      "plan_total_ghs": 6786.99
+    },
+    {
+      "item": "Roasted Potatoes",
+      "mape_pct": 24.2,
+      "accuracy_pct": 75.8,
+      "arima_order": "(1, 0, 0)",
+      "avg_weekly_forecast": 41.8,
+      "plan_total_units": 193,
+      "plan_total_ghs": 6183.72
+    },
+    {
+      "item": "French Fries",
+      "mape_pct": 34.8,
+      "accuracy_pct": 65.2,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 35.0,
+      "plan_total_units": 161,
+      "plan_total_ghs": 5940.9
+    },
+    {
+      "item": "Steamed Vegetables",
+      "mape_pct": 21.7,
+      "accuracy_pct": 78.3,
+      "arima_order": "(2, 0, 0)",
+      "avg_weekly_forecast": 36.8,
+      "plan_total_units": 170,
+      "plan_total_ghs": 5783.4
+    },
+    {
+      "item": "Mixed Vegetable Medley",
+      "mape_pct": 20.4,
+      "accuracy_pct": 79.6,
+      "arima_order": "(3, 1, 0)",
+      "avg_weekly_forecast": 48.5,
+      "plan_total_units": 224,
+      "plan_total_ghs": 5712.0
+    },
+    {
+      "item": "Carrot Cake",
+      "mape_pct": 34.9,
+      "accuracy_pct": 65.1,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 36.0,
+      "plan_total_units": 166,
+      "plan_total_ghs": 5710.4
+    },
+    {
+      "item": "Chocolate Pudding",
+      "mape_pct": 29.1,
+      "accuracy_pct": 70.9,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 39.0,
+      "plan_total_units": 180,
+      "plan_total_ghs": 5540.4
+    },
+    {
+      "item": "Potato Wedges",
+      "mape_pct": 23.8,
+      "accuracy_pct": 76.2,
+      "arima_order": "(2, 0, 0)",
+      "avg_weekly_forecast": 41.8,
+      "plan_total_units": 193,
+      "plan_total_ghs": 4906.06
+    },
+    {
+      "item": "Fruit Platter",
+      "mape_pct": 24.7,
+      "accuracy_pct": 75.3,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 38.0,
+      "plan_total_units": 175,
+      "plan_total_ghs": 4611.25
+    },
+    {
+      "item": "Plain Rice",
+      "mape_pct": 36.5,
+      "accuracy_pct": 63.5,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 36.0,
+      "plan_total_units": 166,
+      "plan_total_ghs": 4515.2
+    },
+    {
+      "item": "Garlic Bread",
+      "mape_pct": 31.2,
+      "accuracy_pct": 68.8,
+      "arima_order": "(1, 0, 0)",
+      "avg_weekly_forecast": 39.0,
+      "plan_total_units": 180,
+      "plan_total_ghs": 4284.0
+    },
+    {
+      "item": "Pilaf",
+      "mape_pct": 20.1,
+      "accuracy_pct": 79.9,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 35.0,
+      "plan_total_units": 161,
+      "plan_total_ghs": 3876.88
+    },
+    {
+      "item": "Samosas",
+      "mape_pct": 18.3,
+      "accuracy_pct": 81.7,
+      "arima_order": "(0, 0, 2)",
+      "avg_weekly_forecast": 44.5,
+      "plan_total_units": 205,
+      "plan_total_ghs": 3690.0
+    },
+    {
+      "item": "Mashed Potatoes",
+      "mape_pct": 18.2,
+      "accuracy_pct": 81.8,
+      "arima_order": "(0, 0, 1)",
+      "avg_weekly_forecast": 36.0,
+      "plan_total_units": 166,
+      "plan_total_ghs": 3539.12
+    },
+    {
+      "item": "Chicken Soup",
+      "mape_pct": 15.4,
+      "accuracy_pct": 84.6,
+      "arima_order": "(2, 0, 0)",
+      "avg_weekly_forecast": 50.8,
+      "plan_total_units": 234,
+      "plan_total_ghs": 3053.7
+    },
+    {
+      "item": "Spring Rolls",
+      "mape_pct": 17.5,
+      "accuracy_pct": 82.5,
+      "arima_order": "(0, 0, 2)",
+      "avg_weekly_forecast": 48.8,
+      "plan_total_units": 225,
+      "plan_total_ghs": 2988.0
+    },
+    {
+      "item": "Garden Salad",
+      "mape_pct": 20.3,
+      "accuracy_pct": 79.7,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 45.0,
+      "plan_total_units": 207,
+      "plan_total_ghs": 2885.58
+    },
+    {
+      "item": "Caesar Salad",
+      "mape_pct": 25.1,
+      "accuracy_pct": 74.9,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 45.0,
+      "plan_total_units": 207,
+      "plan_total_ghs": 2848.32
+    },
+    {
+      "item": "Juice",
+      "mape_pct": 19.3,
+      "accuracy_pct": 80.7,
+      "arima_order": "(2, 1, 1)",
+      "avg_weekly_forecast": 44.2,
+      "plan_total_units": 204,
+      "plan_total_ghs": 2839.68
+    },
+    {
+      "item": "Calamari Rings",
+      "mape_pct": 19.4,
+      "accuracy_pct": 80.6,
+      "arima_order": "(2, 1, 0)",
+      "avg_weekly_forecast": 60.8,
+      "plan_total_units": 280,
+      "plan_total_ghs": 2755.2
+    },
+    {
+      "item": "Seafood Skewers",
+      "mape_pct": 26.2,
+      "accuracy_pct": 73.8,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 41.0,
+      "plan_total_units": 189,
+      "plan_total_ghs": 2630.88
+    },
+    {
+      "item": "Basic Beverage",
+      "mape_pct": 17.7,
+      "accuracy_pct": 82.3,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 36.0,
+      "plan_total_units": 166,
+      "plan_total_ghs": 2629.44
+    },
+    {
+      "item": "Bruschetta",
+      "mape_pct": 19.1,
+      "accuracy_pct": 80.9,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 45.0,
+      "plan_total_units": 207,
+      "plan_total_ghs": 2515.05
+    },
+    {
+      "item": "Fried Rice",
+      "mape_pct": 33.2,
+      "accuracy_pct": 66.8,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 31.0,
+      "plan_total_units": 143,
+      "plan_total_ghs": 2431.0
+    },
+    {
+      "item": "Shrimp Cocktail",
+      "mape_pct": 18.3,
+      "accuracy_pct": 81.7,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 41.0,
+      "plan_total_units": 189,
+      "plan_total_ghs": 2296.35
+    },
+    {
+      "item": "Whiskey",
+      "mape_pct": 21.4,
+      "accuracy_pct": 78.6,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 32.0,
+      "plan_total_units": 148,
+      "plan_total_ghs": 2163.76
+    },
+    {
+      "item": "Cocktails",
+      "mape_pct": 23.4,
+      "accuracy_pct": 76.6,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 34.0,
+      "plan_total_units": 157,
+      "plan_total_ghs": 1381.6
+    },
+    {
+      "item": "Liqueurs",
+      "mape_pct": 20.1,
+      "accuracy_pct": 79.9,
+      "arima_order": "(0, 0, 2)",
+      "avg_weekly_forecast": 34.5,
+      "plan_total_units": 159,
+      "plan_total_ghs": 1367.4
+    },
+    {
+      "item": "Wine",
+      "mape_pct": 18.6,
+      "accuracy_pct": 81.4,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 35.0,
+      "plan_total_units": 161,
+      "plan_total_ghs": 1288.0
+    },
+    {
+      "item": "Soda",
+      "mape_pct": 10.6,
+      "accuracy_pct": 89.4,
+      "arima_order": "(0, 1, 1)",
+      "avg_weekly_forecast": 38.0,
+      "plan_total_units": 175,
+      "plan_total_ghs": 1190.0
+    },
+    {
+      "item": "Iced Tea",
+      "mape_pct": 17.2,
+      "accuracy_pct": 82.8,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 35.0,
+      "plan_total_units": 161,
+      "plan_total_ghs": 1188.18
+    },
+    {
+      "item": "Water",
+      "mape_pct": 33.9,
+      "accuracy_pct": 66.1,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 34.0,
+      "plan_total_units": 157,
+      "plan_total_ghs": 1117.84
+    },
+    {
+      "item": "Beer",
+      "mape_pct": 18.3,
+      "accuracy_pct": 81.7,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 34.0,
+      "plan_total_units": 157,
+      "plan_total_ghs": 1080.16
+    },
+    {
+      "item": "Lemonade",
+      "mape_pct": 25.9,
+      "accuracy_pct": 74.1,
+      "arima_order": "(1, 0, 0)",
+      "avg_weekly_forecast": 35.2,
+      "plan_total_units": 163,
+      "plan_total_ghs": 1069.28
+    },
+    {
+      "item": "Coffee",
+      "mape_pct": 28.2,
+      "accuracy_pct": 71.8,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 34.0,
+      "plan_total_units": 157,
+      "plan_total_ghs": 847.8
+    },
+    {
+      "item": "Vodka",
+      "mape_pct": 29.1,
+      "accuracy_pct": 70.9,
+      "arima_order": "(0, 0, 0)",
+      "avg_weekly_forecast": 33.0,
+      "plan_total_units": 152,
+      "plan_total_ghs": 676.4
+    },
+    {
+      "item": "Basic Appetizer",
+      "mape_pct": 24.5,
+      "accuracy_pct": 75.5,
+      "arima_order": "(2, 0, 0)",
+      "avg_weekly_forecast": 29.2,
+      "plan_total_units": 135,
+      "plan_total_ghs": 0.0
+    }
+  ],
+  "hero_item": {
+    "name": "Chicken Breast",
+    "arima_order": "(5, 1, 0)",
+    "accuracy_pct": 69.0,
+    "history": [
+      {
+        "week": "2021-12-27",
+        "units": 10
+      },
+      {
+        "week": "2022-01-03",
+        "units": 12
+      },
+      {
+        "week": "2022-01-10",
+        "units": 26
+      },
+      {
+        "week": "2022-01-17",
+        "units": 27
+      },
+      {
+        "week": "2022-01-24",
+        "units": 25
+      },
+      {
+        "week": "2022-01-31",
+        "units": 26
+      },
+      {
+        "week": "2022-02-07",
+        "units": 31
+      },
+      {
+        "week": "2022-02-14",
+        "units": 5
+      },
+      {
+        "week": "2022-02-21",
+        "units": 21
+      },
+      {
+        "week": "2022-02-28",
+        "units": 38
+      },
+      {
+        "week": "2022-03-07",
+        "units": 20
+      },
+      {
+        "week": "2022-03-14",
+        "units": 29
+      },
+      {
+        "week": "2022-03-21",
+        "units": 16
+      },
+      {
+        "week": "2022-03-28",
+        "units": 33
+      },
+      {
+        "week": "2022-04-04",
+        "units": 12
+      },
+      {
+        "week": "2022-04-11",
+        "units": 25
+      },
+      {
+        "week": "2022-04-18",
+        "units": 32
+      },
+      {
+        "week": "2022-04-25",
+        "units": 49
+      },
+      {
+        "week": "2022-05-02",
+        "units": 20
+      },
+      {
+        "week": "2022-05-09",
+        "units": 25
+      },
+      {
+        "week": "2022-05-16",
+        "units": 22
+      },
+      {
+        "week": "2022-05-23",
+        "units": 42
+      },
+      {
+        "week": "2022-05-30",
+        "units": 39
+      },
+      {
+        "week": "2022-06-06",
+        "units": 20
+      },
+      {
+        "week": "2022-06-13",
+        "units": 22
+      },
+      {
+        "week": "2022-06-20",
+        "units": 23
+      },
+      {
+        "week": "2022-06-27",
+        "units": 40
+      },
+      {
+        "week": "2022-07-04",
+        "units": 21
+      },
+      {
+        "week": "2022-07-11",
+        "units": 13
+      },
+      {
+        "week": "2022-07-18",
+        "units": 21
+      },
+      {
+        "week": "2022-07-25",
+        "units": 32
+      },
+      {
+        "week": "2022-08-01",
+        "units": 31
+      },
+      {
+        "week": "2022-08-08",
+        "units": 23
+      },
+      {
+        "week": "2022-08-15",
+        "units": 20
+      },
+      {
+        "week": "2022-08-22",
+        "units": 32
+      },
+      {
+        "week": "2022-08-29",
+        "units": 39
+      },
+      {
+        "week": "2022-09-05",
+        "units": 10
+      },
+      {
+        "week": "2022-09-12",
+        "units": 32
+      },
+      {
+        "week": "2022-09-19",
+        "units": 26
+      },
+      {
+        "week": "2022-09-26",
+        "units": 23
+      },
+      {
+        "week": "2022-10-03",
+        "units": 34
+      },
+      {
+        "week": "2022-10-10",
+        "units": 20
+      },
+      {
+        "week": "2022-10-17",
+        "units": 26
+      },
+      {
+        "week": "2022-10-24",
+        "units": 42
+      },
+      {
+        "week": "2022-10-31",
+        "units": 31
+      },
+      {
+        "week": "2022-11-07",
+        "units": 26
+      },
+      {
+        "week": "2022-11-14",
+        "units": 35
+      },
+      {
+        "week": "2022-11-21",
+        "units": 24
+      },
+      {
+        "week": "2022-11-28",
+        "units": 52
+      },
+      {
+        "week": "2022-12-05",
+        "units": 43
+      },
+      {
+        "week": "2022-12-12",
+        "units": 37
+      },
+      {
+        "week": "2022-12-19",
+        "units": 30
+      },
+      {
+        "week": "2022-12-26",
+        "units": 58
+      }
+    ],
+    "forecast": [
+      {
+        "week": "2023-01-02",
+        "units": 43
+      },
+      {
+        "week": "2023-01-09",
+        "units": 43
+      },
+      {
+        "week": "2023-01-16",
+        "units": 39
+      },
+      {
+        "week": "2023-01-23",
+        "units": 46
+      }
+    ]
+  }
+}

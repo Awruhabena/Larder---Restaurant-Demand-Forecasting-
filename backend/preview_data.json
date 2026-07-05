@@ -1,0 +1,162 @@
+{
+  "headline": {
+    "plan_total_ghs": 18500.0,
+    "savings_ghs": 2100.0,
+    "accuracy_pct": 82.0,
+    "items_count": 12,
+    "plan_weeks": 4,
+    "currency": "GHS",
+    "is_preview": true
+  },
+  "weeks": [
+    "Week 1",
+    "Week 2",
+    "Week 3",
+    "Week 4"
+  ],
+  "buy_plan": [
+    {
+      "item": "Rice",
+      "week_of": "Week 1",
+      "forecast_units": 40,
+      "buy_units": 46,
+      "unit_cost": 12.0,
+      "buy_cost_ghs": 552.0,
+      "change": "steady",
+      "change_pct": 0.0
+    },
+    {
+      "item": "Chicken",
+      "week_of": "Week 1",
+      "forecast_units": 60,
+      "buy_units": 69,
+      "unit_cost": 18.0,
+      "buy_cost_ghs": 1242.0,
+      "change": "up",
+      "change_pct": 22.0
+    },
+    {
+      "item": "Tomatoes",
+      "week_of": "Week 1",
+      "forecast_units": 30,
+      "buy_units": 35,
+      "unit_cost": 6.0,
+      "buy_cost_ghs": 210.0,
+      "change": "down",
+      "change_pct": -21.0
+    },
+    {
+      "item": "Cooking Oil",
+      "week_of": "Week 1",
+      "forecast_units": 15,
+      "buy_units": 17,
+      "unit_cost": 25.0,
+      "buy_cost_ghs": 425.0,
+      "change": "steady",
+      "change_pct": 3.0
+    },
+    {
+      "item": "Bread",
+      "week_of": "Week 1",
+      "forecast_units": 50,
+      "buy_units": 58,
+      "unit_cost": 5.0,
+      "buy_cost_ghs": 290.0,
+      "change": "steady",
+      "change_pct": -2.0
+    }
+  ],
+  "summary": [
+    {
+      "item": "Rice",
+      "mape_pct": 20.0,
+      "accuracy_pct": 80.0,
+      "arima_order": "(1,1,1)",
+      "avg_weekly_forecast": 40.0,
+      "plan_total_units": 175,
+      "plan_total_ghs": 2100.0
+    },
+    {
+      "item": "Chicken",
+      "mape_pct": 15.0,
+      "accuracy_pct": 85.0,
+      "arima_order": "(2,1,0)",
+      "avg_weekly_forecast": 60.0,
+      "plan_total_units": 260,
+      "plan_total_ghs": 4680.0
+    }
+  ],
+  "hero_item": {
+    "name": "Rice",
+    "arima_order": "(1,1,1)",
+    "accuracy_pct": 80.0,
+    "history": [
+      {
+        "week": "Wk-1",
+        "units": 39
+      },
+      {
+        "week": "Wk-2",
+        "units": 40
+      },
+      {
+        "week": "Wk-3",
+        "units": 41
+      },
+      {
+        "week": "Wk-4",
+        "units": 42
+      },
+      {
+        "week": "Wk-5",
+        "units": 38
+      },
+      {
+        "week": "Wk-6",
+        "units": 39
+      },
+      {
+        "week": "Wk-7",
+        "units": 40
+      },
+      {
+        "week": "Wk-8",
+        "units": 41
+      },
+      {
+        "week": "Wk-9",
+        "units": 42
+      },
+      {
+        "week": "Wk-10",
+        "units": 38
+      },
+      {
+        "week": "Wk-11",
+        "units": 39
+      },
+      {
+        "week": "Wk-12",
+        "units": 40
+      }
+    ],
+    "forecast": [
+      {
+        "week": "Wk-13",
+        "units": 41
+      },
+      {
+        "week": "Wk-14",
+        "units": 42
+      },
+      {
+        "week": "Wk-15",
+        "units": 40
+      },
+      {
+        "week": "Wk-16",
+        "units": 41
+      }
+    ]
+  }
+}

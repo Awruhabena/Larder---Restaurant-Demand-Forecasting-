@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+env/
+*.egg-info/
+Pipeline_Output.xlsx
+Weekly_Buy_Plan.xlsx
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.logdemo/*.mp4
+demo/*.mp4

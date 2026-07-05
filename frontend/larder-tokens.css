@@ -1,0 +1,270 @@
+/* ==========================================================================
+   larder-tokens.css
+   Design tokens for the Larder frontend: colours, typography, spacing,
+   and radii, plus base component styles. Link this file first, before
+   any page-specific CSS.
+   ========================================================================== */
+
+:root {
+  /* ---------------------------------------------------------------------- */
+  /* COLOURS                                                                 */
+  /* ---------------------------------------------------------------------- */
+
+  /* Brand greens */
+  --larder-primary:          #1E4A38; /* deep forest green — brand, headings, key text */
+  --larder-primary-mid:      #2E6B4F; /* mid green — secondary brand */
+  --larder-positive:         #2E8B5D; /* savings / positive / "up" */
+  --larder-positive-soft:    #5E8A72; /* muted positive */
+
+  /* Accents (spend / warning / forecast) */
+  --larder-spend:            #C0791F; /* amber — money/spend accent */
+  --larder-spend-soft:       #E9C46A; /* soft gold — forecast accent / highlight */
+  --larder-negative:         #B0472E; /* terracotta — "down" / decrease / alert */
+
+  /* Backgrounds & surfaces (warm paper palette) */
+  --larder-background:       #F4F1EA; /* app background */
+  --larder-surface:          #FBF9F4; /* cards / raised surfaces */
+  --larder-surface-alt:      #EFEBE2; /* alt fills */
+  --larder-surface-alt-2:    #EDE9E1; /* section backgrounds */
+  --larder-white:            #FFFFFF;
+
+  /* Borders */
+  --larder-border:           #E3DED4; /* hairline dividers */
+  --larder-border-strong:    #D3CCBE; /* stronger border */
+
+  /* Text */
+  --larder-text-primary:     #1B1A16; /* near-black primary text */
+  --larder-text-secondary:   #57544C; /* body text */
+  --larder-text-muted:       #8B877C; /* captions, uppercase eyebrows */
+  --larder-text-muted-dark:  #B9C7BE; /* muted text on dark green surfaces */
+
+  /* Status pill backgrounds (pair with matching text colour) */
+  --larder-pill-positive-bg: #E8F1EB; /* with --larder-primary text */
+  --larder-pill-negative-bg: #F4E5E0; /* with --larder-negative text */
+
+  /* ---------------------------------------------------------------------- */
+  /* TYPOGRAPHY                                                              */
+  /* ---------------------------------------------------------------------- */
+
+  --larder-font-display: 'Newsreader', serif;              /* big hero numbers */
+  --larder-font-body:    'Hanken Grotesk', sans-serif;      /* UI + body text */
+  --larder-font-mono:    'IBM Plex Mono', monospace;        /* tabular numbers, labels */
+
+  /* Scale (matches the real design: 10 10.5 11 12 12.5 13 13.5 14 15 16 17 18 20 22 23 26 28 32 40 42 44 46 68) */
+  --larder-text-hero:     44px;   /* hero display number */
+  --larder-text-xl:       68px;   /* display XL */
+  --larder-text-lg:       32px;   /* display large */
+  --larder-text-h1:       26px;
+  --larder-text-h2:       20px;
+  --larder-text-h3:       15px;
+  --larder-text-body:     14px;
+  --larder-text-body-sm:  12.5px;
+  --larder-text-eyebrow:  11px;
+  --larder-text-table:    13.5px; /* tabular numbers, IBM Plex Mono */
+  --larder-text-mono-lbl: 11px;
+  --larder-text-pill:     12px;
+
+  --larder-weight-regular: 400;
+  --larder-weight-medium:  500;
+  --larder-weight-semibold:600;
+  --larder-weight-bold:    700;
+
+  /* ---------------------------------------------------------------------- */
+  /* SPACING (the scale used across the design)                             */
+  /* ---------------------------------------------------------------------- */
+  --larder-space-xs:  6px;
+  --larder-space-sm:  10px;
+  --larder-space-md:  14px;
+  --larder-space-lg:  18px;
+  --larder-space-xl:  22px;
+  --larder-space-xxl: 40px;
+
+  /* ---------------------------------------------------------------------- */
+  /* RADII                                                                   */
+  /* ---------------------------------------------------------------------- */
+  --larder-radius-sm:   6px;
+  --larder-radius-md:   10px;   /* default card/control radius */
+  --larder-radius-lg:   16px;
+  --larder-radius-xl:   20px;
+  --larder-radius-pill: 999px;  /* fully-rounded pills / chips */
+}
+
+/* ==========================================================================
+   BASE ELEMENT STYLES
+   ========================================================================== */
+
+body {
+  background: var(--larder-background);
+  color: var(--larder-text-secondary);
+  font-family: var(--larder-font-body);
+  font-size: var(--larder-text-body);
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Hero display numbers — e.g. the big GHS figures on the Dashboard */
+.larder-hero-number {
+  font-family: var(--larder-font-display);
+  font-size: var(--larder-text-hero);
+  font-weight: var(--larder-weight-medium);
+  letter-spacing: -0.9px;
+  line-height: 0.95;
+  color: var(--larder-text-primary);
+}
+.larder-display-xl {
+  font-family: var(--larder-font-display);
+  font-size: var(--larder-text-xl);
+  font-weight: var(--larder-weight-medium);
+  letter-spacing: -1.2px;
+  line-height: 0.95;
+  color: var(--larder-text-primary);
+}
+.larder-display-lg {
+  font-family: var(--larder-font-display);
+  font-size: var(--larder-text-lg);
+  font-weight: var(--larder-weight-medium);
+  letter-spacing: -0.6px;
+  color: var(--larder-text-primary);
+}
+
+/* Headings */
+h1, .larder-h1 { font-family: var(--larder-font-body); font-size: var(--larder-text-h1); font-weight: var(--larder-weight-bold); color: var(--larder-text-primary); margin: 0; }
+h2, .larder-h2 { font-family: var(--larder-font-body); font-size: var(--larder-text-h2); font-weight: var(--larder-weight-bold); color: var(--larder-text-primary); margin: 0; }
+h3, .larder-h3 { font-family: var(--larder-font-body); font-size: var(--larder-text-h3); font-weight: var(--larder-weight-bold); color: var(--larder-text-primary); margin: 0; }
+
+/* Body text */
+.larder-body      { font-family: var(--larder-font-body); font-size: var(--larder-text-body); color: var(--larder-text-secondary); line-height: 1.5; }
+.larder-body-sm   { font-family: var(--larder-font-body); font-size: var(--larder-text-body-sm); color: var(--larder-text-secondary); }
+
+/* Muted uppercase eyebrow label */
+.larder-eyebrow {
+  font-family: var(--larder-font-body);
+  font-size: var(--larder-text-eyebrow);
+  font-weight: var(--larder-weight-semibold);
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--larder-text-muted);
+}
+
+/* Tabular numbers — use in tables so figures align */
+.larder-table-number {
+  font-family: var(--larder-font-mono);
+  font-size: var(--larder-text-table);
+  font-weight: var(--larder-weight-medium);
+  color: var(--larder-text-primary);
+  font-variant-numeric: tabular-nums;
+}
+.larder-mono-label {
+  font-family: var(--larder-font-mono);
+  font-size: var(--larder-text-mono-lbl);
+  font-weight: var(--larder-weight-medium);
+  color: var(--larder-text-muted);
+}
+
+/* ==========================================================================
+   COMPONENTS
+   ========================================================================== */
+
+/* Card — the base surface used across dashboards, tables, panels */
+.larder-card {
+  background: var(--larder-surface);
+  border: 1px solid var(--larder-border);
+  border-radius: var(--larder-radius-lg);
+  padding: var(--larder-space-lg);
+}
+
+/* Buttons */
+.larder-btn {
+  font-family: var(--larder-font-body);
+  font-size: var(--larder-text-body);
+  font-weight: var(--larder-weight-semibold);
+  padding: var(--larder-space-sm) var(--larder-space-lg);
+  border-radius: var(--larder-radius-md);
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.15s ease;
+}
+.larder-btn:hover { opacity: 0.9; }
+.larder-btn-primary {
+  background: var(--larder-primary);
+  color: var(--larder-white);
+}
+.larder-btn-secondary {
+  background: transparent;
+  color: var(--larder-primary);
+  border: 1px solid var(--larder-border-strong);
+}
+.larder-btn:disabled,
+.larder-btn.is-locked {
+  background: var(--larder-surface-alt);
+  color: var(--larder-text-muted);
+  cursor: not-allowed;
+}
+
+/* Status pills — e.g. up/down/steady, accuracy badges */
+.larder-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--larder-font-body);
+  font-size: var(--larder-text-pill);
+  font-weight: var(--larder-weight-semibold);
+  padding: 4px 10px;
+  border-radius: var(--larder-radius-pill);
+}
+.larder-pill-positive { background: var(--larder-pill-positive-bg); color: var(--larder-primary); }
+.larder-pill-negative { background: var(--larder-pill-negative-bg); color: var(--larder-negative); }
+.larder-pill-neutral  { background: var(--larder-surface-alt); color: var(--larder-text-muted); }
+
+/* Table */
+.larder-table { width: 100%; border-collapse: collapse; }
+.larder-table th {
+  text-align: left;
+  font-family: var(--larder-font-body);
+  font-size: var(--larder-text-eyebrow);
+  font-weight: var(--larder-weight-semibold);
+  color: var(--larder-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: var(--larder-space-sm) var(--larder-space-md);
+  border-bottom: 1px solid var(--larder-border);
+}
+.larder-table td {
+  padding: var(--larder-space-sm) var(--larder-space-md);
+  border-bottom: 1px solid var(--larder-border);
+  font-family: var(--larder-font-body);
+  font-size: var(--larder-text-body);
+  color: var(--larder-text-secondary);
+}
+.larder-table td.is-number { font-family: var(--larder-font-mono); font-variant-numeric: tabular-nums; }
+
+/* Locked state (Data Upload before payment) */
+.larder-locked {
+  opacity: 0.5;
+  pointer-events: none;
+}
+.larder-locked-note {
+  font-family: var(--larder-font-body);
+  font-size: var(--larder-text-body-sm);
+  color: var(--larder-text-muted);
+}
+
+/* Chart line styles (Forecast Detail) */
+.larder-chart-history { stroke: var(--larder-text-secondary); stroke-width: 2; fill: none; }
+.larder-chart-forecast { stroke: var(--larder-spend-soft); stroke-width: 2; stroke-dasharray: 6 4; fill: none; }
+.larder-chart-now-divider { stroke: var(--larder-border-strong); stroke-width: 1; stroke-dasharray: 3 3; }
+
+/* ==========================================================================
+   FONT LOADING — required for the fonts above to actually render
+   ========================================================================== */
+/*
+  Add ONE of the following to your PHP page <head>, before this stylesheet:
+
+  Option A — Google Fonts CDN (easiest):
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@400;500;600&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  Option B — self-hosted: download the font files and add @font-face rules
+  here before :root. Use Option A unless self-hosting is a hard requirement.
+*/
