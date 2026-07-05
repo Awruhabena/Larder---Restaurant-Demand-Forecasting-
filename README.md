@@ -134,7 +134,6 @@ larder/
 ├── backend/          Python — the forecasting engine + API (FastAPI)
 ├── frontend/         PHP/HTML/CSS — the web app
 ├── docs/             Project narrative, journey map, demo script
-├── demo/             Pitch deck; pointer to the live-demo walkthrough below
 └── requirements.txt  Python dependencies (also listed in Step 1 below)
 ```
 
