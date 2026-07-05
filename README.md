@@ -109,6 +109,11 @@ If you want to restart the journey from the top without clearing your browser's 
 
 ---
 
+## Demo Video
+▶️ **[Watch the demo](https://www.loom.com/share/a9b4d57301684bb384ba7a375457fbac)**
+
+---
+
 ## Troubleshooting
 
 | Symptom | Likely cause |
