@@ -1,12 +1,12 @@
 # Larder — Restaurant Demand Forecasting
 
-Predicts how much of each menu item a restaurant should buy each week, and turns that forecast into a costed purchasing plan — so restaurants stop guessing, stop over-ordering, and stop running out.
+Predicts how much of each menu item a restaurant should buy each week, and turns that forecast into a costed purchasing plan  so restaurants stop guessing, stop over-ordering, and stop running out.
 
 ---
 
 ## Problem Statement
 
-**What is the problem?** Restaurants make their biggest recurring cost decision — how much food to buy each week — by guessing. Every restaurant already generates the sales data that would answer this precisely, but small and independent restaurants rarely have the tools to use it.
+**What is the problem?** Restaurants make their biggest recurring cost decision — how much food to buy each week  by guessing. Every restaurant already generates the sales data that would answer this precisely, but small and independent restaurants rarely have the tools to use it.
 
 **Who is affected?** Independent restaurant owners and managers, most acutely in markets like Ghana where margins are thin and food waste is unaffordable. The effect reaches further: suppliers who could plan better with visibility into real demand, and communities where food waste and food insecurity exist side by side.
 
@@ -24,7 +24,7 @@ Predicts how much of each menu item a restaurant should buy each week, and turns
 
 **What makes it useful.** The output is not a model score or a chart to interpret — it is a plain, actionable purchasing list in the restaurant's own currency, built from the restaurant's own history.
 
-**What makes it different.** Most forecasting tools stop at a number. Larder is deliberately scoped around one honest boundary: it predicts *quantity*, because that is what a restaurant's own sales history genuinely supports — and it never predicts *price*, because price moves on supplier and market forces no model should claim to know. Costs are calculated at the restaurant's own entered prices. This is a stated design choice, not a limitation discovered later.
+**What makes it different.** Most forecasting tools stop at a number. Larder is deliberately scoped around one honest boundary: it predicts *quantity*, because that is what a restaurant's own sales history genuinely supports  and it never predicts *price*, because price moves on supplier and market forces no model should claim to know. Costs are calculated at the restaurant's own entered prices. This is a stated design choice, not a limitation discovered later.
 
 ---
 
