@@ -28,7 +28,7 @@ import pandas as pd
 # Canonical schema the forecaster consumes
 CANONICAL_COLUMNS = ["Date", "Time", "Order Number", "Item", "Count"]
 
-GEMINI_MODEL = "gemini-2.0-flash"  # current fast model on the google-genai SDK
+GEMINI_MODEL = "gemini-3.1-flash-lite"  # current fast model on the google-genai SDK
 
 
 # --------------------------------------------------------------------------- #
